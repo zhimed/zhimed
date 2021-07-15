@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zachary Himed and I am a current CS student at CSU East Bay.
-- 👀 I have a strong interest in Android Develpment and AI, but I enjoy learning new things and being exposed to new concepts.
-- 🌱 I’m currently learning to create Android applications in Android Studio and also taking 4 other classes as I work towards my graduation.
+- 👋 Hi, I’m Zachary Himed and I am a senior CS student at CSU East Bay.
+- 👀 I have a strong interest in Android Develpment, Web Development, and AI, and I enjoy learning new things and being exposed to new concepts.
+- 🌱 I’m currently learning front-end web development using Javascript, HTML, and CSS. So far its been a blast during this process and I can't wait to start create some amazing websites. 
 - 📫 How to reach me:  Email: zackhimed7@gmail.com
 
 <!---
